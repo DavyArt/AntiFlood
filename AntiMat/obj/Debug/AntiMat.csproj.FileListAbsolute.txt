@@ -1,0 +1,3 @@
+C:\Users\Admin\Desktop\Owners\Owners\AntiMat\obj\Debug\AntiMat.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\SharpDevelop Projects\Game-master\GameServer\bin\Debug\addons\AntiMat.dll
+C:\Users\Admin\Desktop\Owners\Owners\AntiMat\obj\Debug\AntiMat.dll
